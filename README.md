@@ -6,3 +6,13 @@ Hello everyone, my name is Ekene and this is the first of many of my depository 
 - I have 5 plus years of accounting experience
 - I make wedding dresses for fun
 - I love data analysis
+## Current Skillset
+- Expert in Excel
+- Power BI professional
+- Various ERP systems
+- Microsoft Office
+
+## My Goals
+- Strengthen all technical skills
+- Improve professional positioning
+- Triple current income
