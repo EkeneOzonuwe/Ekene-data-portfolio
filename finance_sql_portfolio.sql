@@ -1,6 +1,6 @@
 -- ============================================================
 --  FINANCE ANALYST SQL PORTFOLIO
---  Author: [Your Name]
+--  Author: [Ekene Ozonuwe]
 --  Stack: SQLite (syntax compatible with PostgreSQL / SQL Server)
 -- ============================================================
 
