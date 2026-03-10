@@ -1,8 +1,7 @@
 -- ============================================================
 --  CHINOOK DATABASE — WEEK 2 SQL ASSIGNMENT
---  Author: Ekene
+--  Author: Ekene Ozonuwe
 --  Database: Chinook (SQLite)
---  Notes: Corrected & portfolio-ready version
 -- ============================================================
 
 
